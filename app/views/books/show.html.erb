@@ -1,5 +1,23 @@
-<h1>Books#show</h1>
-<p>Find me in app/views/books/show.html.erb</p>
-
-<p>Here is the book content:</p>
-<%= @book.content %>
+<header>
+	<h1><%= @book.title %></h1>
+</header>
+<div class="main">
+	<div class="sidebar">
+		<%= link_to "Library", books_path %>
+	</div>
+	<div class="content">
+		<%= @book.content.html_safe %>
+	</div>
+	<div class="sidebar">
+		<ul>
+			<li><%= link_to "Caslon", '#' %></li>
+			<li><%= link_to "Gill Sans", '#' %></li>
+			<li><%= link_to "Minion", '#' %></li>
+		</ul>
+		<ul>
+			<li><%= link_to "A", '#' %></li>
+			<li><%= link_to "A", '#' %></li>
+			<li><%= link_to "A", '#' %></li>
+		</ul>
+	</div>
+</div>
