@@ -1,3 +1,35 @@
 // Place all the styles related to the Books controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.book-list {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.book-item {
+	width: 140px;
+	height: 150px;
+	padding: 50px 5px 0;
+	border: 1px solid #000;
+	display: inline-block;
+	margin: 5px;
+}
+
+.book-item em {
+	color: #000;
+	margin-top: 20px;
+	display: block;
+	font-size: 18px;
+}
+
+.book-item:hover {
+	border: 1px solid #000;
+	background: #7bbde3;
+	color: #fff;
+}
+
+.add-book {
+	font-size: 75px;
+	font-weight: 100;
+}

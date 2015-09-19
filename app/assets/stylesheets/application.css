@@ -19,12 +19,12 @@ body {
 }
 
 .wrapper {
-	margin-top: 50px;
+	margin-top: 80px;
 	padding: 0 10px;
 }
 
 .single-page {
-	max-width: 600px;
+	max-width: 650px;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -47,6 +47,10 @@ a:hover {
 	border-bottom: 2px solid #07b;
 }
 
+em {
+	font-style: italic;
+}
+
 .sign-in {
 	border: 1px solid #07b;
 	border-radius: 5px;
@@ -61,4 +65,5 @@ a:hover {
 
 .sign-out {
 	text-align: right;
+	line-height: 0;
 }

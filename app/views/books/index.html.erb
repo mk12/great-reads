@@ -1,8 +1,10 @@
-This is the library!!!!
+<div class="single-page">
+	<h1>Library</h1>
 
-Here are your books:
-<ul>
-	<% @books.each do |book| %>
-		<li><%= link_to book.title, book_path(book) %></li>
-	<% end %>
-</ul>
+	<ul class="book-list">
+		<% @books.each do |book| %>
+			<%= link_to cover_info(book), book_path(book), class: 'book-item' %>
+		<% end %>
+		<%= link_to "+", '#', class: 'book-item add-book' %>
+	</ul>
+</div>
