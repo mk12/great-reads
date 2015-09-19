@@ -14,5 +14,51 @@
  *= require_self
  */
 
+body {
+	font: 22px 'Gill Sans', serif;
+}
+
+.wrapper {
+	margin-top: 50px;
+	padding: 0 10px;
+}
+
+.single-page {
+	max-width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	margin-bottom: 40px;
+}
+
 a {
+	color: #07b;
+	text-decoration: none;
+}
+
+p {
+	margin-bottom: 2em;
+}
+
+a:hover {
+	border-bottom: 2px solid #07b;
+}
+
+.sign-in {
+	border: 1px solid #07b;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.sign-in:hover {
+	background: #07b;
+	color: #fff;
+	border: none;
+}
+
+.sign-out {
+	text-align: right;
 }
