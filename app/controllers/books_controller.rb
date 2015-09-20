@@ -8,6 +8,7 @@ class BooksController < ApplicationController
 
   def show
     paginator = Paginator.new(@book.filename)
+    @num_pages = paginator.num_pages
     if params[:page]
       @reading.update(current_page: params[:page])
     end

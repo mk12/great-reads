@@ -34,7 +34,15 @@
 	</div>
 </div>
 <footer>
-	<span><%= link_to "&laquo; Previous".html_safe, url_for(page: @reading.current_page - 1) %></span>
+	<% if @reading.current_page <= 1 %>
+		<span>&laquo; Previous</span>
+	<% else %>
+		<span><%= link_to "&laquo; Previous".html_safe, url_for(page: @reading.current_page - 1), id: 'Previous' %></span>
+	<% end %>
 	<span>Page <%= @reading.current_page %></span>
-	<span><%= link_to "Next &raquo;".html_safe, url_for(page: @reading.current_page + 1) %></span>
+	<% if @reading.current_page >= @num_pages %>
+		<span>Next &raquo;</span>
+	<% else %>
+		<span><%= link_to "Next &raquo;".html_safe, url_for(page: @reading.current_page + 1), id: 'Next' %></span>
+	<% end %>
 </footer>

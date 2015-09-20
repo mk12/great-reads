@@ -57,3 +57,12 @@ var ready = function() {
 
 $(document).ready(ready);
 $(document).on('page:load', ready);
+$(document).keydown(function(e) {
+	if (e.which === 37) {
+		var href = $('#Previous').attr('href');
+		if (href) window.location.href = href;
+	} else if (e.which === 39) {
+		var href = $('#Next').attr('href');
+		if (href) window.location.href = href;
+	}
+});
