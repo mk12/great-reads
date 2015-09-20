@@ -13,6 +13,7 @@ class BooksController < ApplicationController
     end
     text = paginator.text(@reading.current_page)
     @html = Rails.application.markdown.render(text)
+    @html = Redcarpet::Render::SmartyPants.render(@html)
   end
 
   def search

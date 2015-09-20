@@ -41,7 +41,7 @@ BOOKS = [
   {handle: '1984',
    title: '1984',
    author: 'George Orwell',
-   content: read_file('oliver_twist.md')},
+   content: read_file('1984.md')},
   {handle: 'how-to-solve-it',
    title: 'How to Solve It',
    author: 'George Pólya',
