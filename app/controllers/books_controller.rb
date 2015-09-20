@@ -12,6 +12,9 @@ class BooksController < ApplicationController
     @html = Rails.application.markdown.render(text)
   end
 
+  def search
+  end
+
   private
 
   def load_book

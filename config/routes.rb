@@ -6,6 +6,9 @@ Rails.application.routes.draw do
   get 'signout', to: 'sessions#destroy', as: 'signout'
 
   resources :home, only: [:index]
-  resources :books, only: [:index, :show]
+  resources :books, only: [:index, :show] do
+    get :search, on: :member
+  end
+
   resources :sessions, only: [:create, :destroy]
 end
