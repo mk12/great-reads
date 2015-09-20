@@ -1,7 +1,5 @@
 #CHAPTER I
-
-#TREATS OF THE PLACE WHERE OLIVER TWIST WAS BORN AND OF THE CIRCUMSTANCES ATTENDING HIS BIRTH
-
+##Treats of the place where Oliver Twist was born and of the circumstances attending his birth
 Among other public buildings in a certain town, which for many reasons
 it will be prudent to refrain from mentioning, and to which I will
 assign no fictitious name, there is one anciently common to most towns,
@@ -120,9 +118,7 @@ would have cried the louder.
 <BR><BR><BR>
 
 #CHAPTER II
-
-#TREATS OF OLIVER TWIST'S GROWTH, EDUCATION, AND BOARD
-
+##Treats of Oliver Twist's growth, education, and board
 For the next eight or ten months, Oliver was the victim of a systematic
 course of treachery and deception.  He was brought up by hand.  The
 hungry and destitute situation of the infant orphan was duly reported
@@ -563,9 +559,7 @@ or no.
 <BR><BR><BR>
 
 #CHAPTER III
-
-#RELATES HOW OLIVER TWIST WAS VERY NEAR GETTING A PLACEWHICH WOULD NOT HAVE BEEN A SINECURE
-
+##RELATES HOW OLIVER TWIST WAS VERY NEAR GETTING A PLACEWHICH WOULD NOT HAVE BEEN A SINECURE
 For a week after the commission of the impious and profane offence of
 asking for more, Oliver remained a close prisoner in the dark and
 solitary room to which he had been consigned by the wisdom and mercy of
@@ -931,9 +925,7 @@ take possession of him.
 <BR><BR><BR>
 
 #CHAPTER IV
-
-#OLIVER, BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC LIFE
-
+##OLIVER, BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC LIFE
 In great families, when an advantageous place cannot be obtained,
 either in possession, reversion, remainder, or expectancy, for the
 young man who is growing up, it is a very general custom to send him to
@@ -1237,9 +1229,7 @@ Oliver lingered no longer, but meekly followed his new mistress.
 <BR><BR><BR>
 
 #CHAPTER V
-
-#OLIVER MINGLES WITH NEW ASSOCIATES. GOING TO A FUNERAL FOR THE FIRST TIME, HE FORMS AN UNFAVOURABLE NOTIONOF HIS MASTER'S BUSINESS
-
+##OLIVER MINGLES WITH NEW ASSOCIATES. GOING TO A FUNERAL FOR THE FIRST TIME, HE FORMS AN UNFAVOURABLE NOTIONOF HIS MASTER'S BUSINESS
 Oliver, being left to himself in the undertaker's shop, set the lamp
 down on a workman's bench, and gazed timidly about him with a feeling
 of awe and dread, which many people a good deal older than he will be
@@ -1706,9 +1696,7 @@ seen and heard.
 <BR><BR><BR>
 
 #CHAPTER VI
-
-#OLIVER, BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND RATHER ASTONISHES HIM
-
+##OLIVER, BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND RATHER ASTONISHES HIM
 The month's trial over, Oliver was formally apprenticed.  It was a nice
 sickly season just at this time.  In commercial phrase, coffins were
 looking up; and, in the course of a few weeks, Oliver acquired a great
@@ -1906,9 +1894,7 @@ head, and a clasp-knife at his eye.
 <BR><BR><BR>
 
 #CHAPTER VII
-
-#OLIVER CONTINUES REFRACTORY
-
+##OLIVER CONTINUES REFRACTORY
 Noah Claypole ran along the streets at his swiftest pace, and paused
 not once for breath, until he reached the workhouse-gate. Having rested
 here, for a minute or so, to collect a good burst of sobs and an
@@ -2186,9 +2172,7 @@ once forgot it.
 <BR><BR><BR>
 
 #CHAPTER VIII
-
-#OLIVER WALKS TO LONDON. HE ENCOUNTERS ON THE ROAD A STRANGE SORTOF YOUNG GENTLEMAN
-
+##OLIVER WALKS TO LONDON. HE ENCOUNTERS ON THE ROAD A STRANGE SORTOF YOUNG GENTLEMAN
 Oliver reached the stile at which the by-path terminated; and once more
 gained the high-road.  It was eight o'clock now. Though he was nearly
 five miles away from the town, he ran, and hid behind the hedges, by
@@ -2533,9 +2517,7 @@ sacks; and then he sunk into a deep sleep.
 <BR><BR><BR>
 
 #CHAPTER IX
-
-#CONTAINING FURTHER PARTICULARS CONCERNINGTHE PLEASANT OLD GENTLEMAN, AND HIS HOPEFUL PUPILS
-
+##CONTAINING FURTHER PARTICULARS CONCERNINGTHE PLEASANT OLD GENTLEMAN, AND HIS HOPEFUL PUPILS
 It was late next morning when Oliver awoke, from a sound, long sleep.
 There was no other person in the room but the old Jew, who was boiling
 some coffee in a saucepan for breakfast, and whistling softly to
@@ -2806,9 +2788,7 @@ the table, and was soon deeply involved in his new study.
 <BR><BR><BR>
 
 #CHAPTER X
-
-#OLIVER BECOMES BETTER ACQUAINTED WITH THE CHARACTERSOF HIS NEW ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE.BEING A SHORT, BUT VERY IMPORTANT CHAPTER, IN THIS HISTORY
-
+##OLIVER BECOMES BETTER ACQUAINTED WITH THE CHARACTERSOF HIS NEW ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE.BEING A SHORT, BUT VERY IMPORTANT CHAPTER, IN THIS HISTORY
 For many days, Oliver remained in the Jew's room, picking the marks out
 of the pocket-handkerchief, (of which a great number were brought
 home,) and sometimes taking part in the game already described: which
@@ -3008,9 +2988,7 @@ triumph; and on they went.
 <BR><BR><BR>
 
 #CHAPTER XI
-
-#TREATS OF MR. FANG THE POLICE MAGISTRATE;AND FURNISHES A SLIGHT SPECIMEN OF HIS MODEOF ADMINISTERING JUSTICE
-
+##TREATS OF MR. FANG THE POLICE MAGISTRATE;AND FURNISHES A SLIGHT SPECIMEN OF HIS MODEOF ADMINISTERING JUSTICE
 The offence had been committed within the district, and indeed in the
 immediate neighborhood of, a very notorious metropolitan police office.
 The crowd had only the satisfaction of accompanying Oliver through two
@@ -3354,9 +3332,7 @@ The book-stall keeper got into the coach; and away they drove.
 <BR><BR><BR>
 
 #CHAPTER XII
-
-#IN WHICH OLIVER IS TAKEN BETTER CARE OF THAN HE EVER WAS BEFORE.AND IN WHICH THE NARRATIVE REVERTS TO THE MERRY OLD GENTLEMANAND HIS YOUTHFUL FRIENDS.
-
+##IN WHICH OLIVER IS TAKEN BETTER CARE OF THAN HE EVER WAS BEFORE.AND IN WHICH THE NARRATIVE REVERTS TO THE MERRY OLD GENTLEMANAND HIS YOUTHFUL FRIENDS.
 The coach rattled away, over nearly the same ground as that which
 Oliver had traversed when he first entered London in company with the
 Dodger; and, turning a different way when it reached the Angel at
@@ -3762,9 +3738,7 @@ behind them.
 <BR><BR><BR>
 
 #CHAPTER XIII
-
-#SOME NEW ACQUAINTANCES ARE INTRODUCED TO THE INTELLIGENT READER CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS ARE RELATED, APPERTAINING TO THIS HISTORY
-
+##SOME NEW ACQUAINTANCES ARE INTRODUCED TO THE INTELLIGENT READER CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS ARE RELATED, APPERTAINING TO THIS HISTORY
 'Where's Oliver?' said the Jew, rising with a menacing look. 'Where's
 the boy?'
 
@@ -4119,9 +4093,7 @@ yet.'
 <BR><BR><BR>
 
 #CHAPTER XIV
-
-#COMPRISING FURTHER PARTICULARS OF OLIVER'S STAY AT MR. BROWNLOW'S, WITH THE REMARKABLE PREDICTION WHICH ONE MR. GRIMWIG UTTEREDCONCERNING HIM, WHEN HE WENT OUT ON AN ERRAND
-
+##COMPRISING FURTHER PARTICULARS OF OLIVER'S STAY AT MR. BROWNLOW'S, WITH THE REMARKABLE PREDICTION WHICH ONE MR. GRIMWIG UTTEREDCONCERNING HIM, WHEN HE WENT OUT ON AN ERRAND
 Oliver soon recovering from the fainting-fit into which Mr. Brownlow's
 abrupt exclamation had thrown him, the subject of the picture was
 carefully avoided, both by the old gentleman and Mrs. Bedwin, in the
@@ -4570,9 +4542,7 @@ silence, with the watch between them.
 <BR><BR><BR>
 
 #CHAPTER XV
-
-#SHOWING HOW VERY FOND OF OLIVER TWIST, THE MERRY OLD JEWAND MISS NANCY WERE
-
+##SHOWING HOW VERY FOND OF OLIVER TWIST, THE MERRY OLD JEWAND MISS NANCY WERE
 In the obscure parlour of a low public-house, in the filthiest part of
 Little Saffron Hill; a dark and gloomy den, where a flaring gas-light
 burnt all day in the winter-time; and where no ray of sun ever shone in
@@ -4858,9 +4828,7 @@ perseveringly, in the dark parlour, with the watch between them.
 <BR><BR><BR>
 
 #CHAPTER XVI
-
-#RELATES WHAT BECAME OF OLIVER TWIST, AFTER HE HAD BEEN CLAIMED BY NANCY
-
+##RELATES WHAT BECAME OF OLIVER TWIST, AFTER HE HAD BEEN CLAIMED BY NANCY
 The narrow streets and courts, at length, terminated in a large open
 space; scattered about which, were pens for beasts, and other
 indications of a cattle-market.  Sikes slackened his pace when they
@@ -5288,9 +5256,7 @@ asleep.
 <BR><BR><BR>
 
 #CHAPTER XVII
-
-#OLIVER'S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN TO LONDON TO INJURE HIS REPUTATION
-
+##OLIVER'S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN TO LONDON TO INJURE HIS REPUTATION
 It is the custom on the stage, in all good murderous melodramas, to
 present the tragic and the comic scenes, in as regular alternation, as
 the layers of red and white in a side of streaky bacon.  The hero sinks
@@ -5708,9 +5674,7 @@ might have broken outright.
 <BR><BR><BR>
 
 #CHAPTER XVIII
-
-#HOW OLIVER PASSED HIS TIME IN THE IMPROVING SOCIETYOF HIS REPUTABLE FRIENDS
-
+##HOW OLIVER PASSED HIS TIME IN THE IMPROVING SOCIETYOF HIS REPUTABLE FRIENDS
 About noon next day, when the Dodger and Master Bates had gone out to
 pursue their customary avocations, Mr. Fagin took the opportunity of
 reading Oliver a long lecture on the crying sin of ingratitude; of
@@ -6048,9 +6012,7 @@ blacken it, and change its hue for ever.
 <BR><BR><BR>
 
 #CHAPTER XIX
-
-#IN WHICH A NOTABLE PLAN IS DISCUSSED AND DETERMINED ON
-
+##IN WHICH A NOTABLE PLAN IS DISCUSSED AND DETERMINED ON
 It was a chill, damp, windy night, when the Jew: buttoning his
 great-coat tight round his shrivelled body, and pulling the collar up
 over his ears so as completely to obscure the lower part of his face:
@@ -6478,9 +6440,7 @@ world has not had time to breathe upon the changing dust it hallowed.
 <BR><BR><BR>
 
 #CHAPTER XX
-
-#WHEREIN OLIVER IS DELIVERED OVER TO MR. WILLIAM SIKES
-
+##WHEREIN OLIVER IS DELIVERED OVER TO MR. WILLIAM SIKES
 When Oliver awoke in the morning, he was a good deal surprised to find
 that a new pair of shoes, with strong thick soles, had been placed at
 his bedside; and that his old shoes had been removed. At first, he was
@@ -6832,9 +6792,7 @@ front of the fire, and sat, perfectly motionless before it.
 <BR><BR><BR>
 
 #CHAPTER XXI
-
-#THE EXPEDITION
-
+##THE EXPEDITION
 It was a cheerless morning when they got into the street; blowing and
 raining hard; and the clouds looking dull and stormy.  The night had
 been very wet: large pools of water had collected in the road: and the
@@ -7081,9 +7039,7 @@ they passed in together.
 <BR><BR><BR>
 
 #CHAPTER XXII
-
-#THE BURGLARY
-
+##THE BURGLARY
 'Hallo!' cried a loud, hoarse voice, as soon as they set foot in the
 passage.
 
@@ -7387,9 +7343,7 @@ and he saw or heard no more.
 <BR><BR><BR>
 
 #CHAPTER XXIII
-
-#WHICH CONTAINS THE SUBSTANCE OF A PLEASANT CONVERSATION BETWEENMR. BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE MAY BESUSCEPTIBLE ON SOME POINTS
-
+##WHICH CONTAINS THE SUBSTANCE OF A PLEASANT CONVERSATION BETWEENMR. BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE MAY BESUSCEPTIBLE ON SOME POINTS
 The night was bitter cold.  The snow lay on the ground, frozen into a
 hard thick crust, so that only the heaps that had drifted into byways
 and corners were affected by the sharp wind that howled abroad:  which,
@@ -7700,9 +7654,7 @@ inventory of the furniture.
 <BR><BR><BR>
 
 #CHAPTER XXIV
-
-#TREATS ON A VERY POOR SUBJECT. BUT IS A SHORT ONE, AND MAY BE FOUND OF IMPORTANCE IN THIS HISTORY
-
+##TREATS ON A VERY POOR SUBJECT. BUT IS A SHORT ONE, AND MAY BE FOUND OF IMPORTANCE IN THIS HISTORY
 It was no unfit messenger of death, who had disturbed the quiet of the
 matron's room.  Her body was bent by age; her limbs trembled with
 palsy; her face, distorted into a mumbling leer, resembled more the
@@ -7942,9 +7894,7 @@ alone, hovering about the body.
 <BR><BR><BR>
 
 #CHAPTER XXV
-
-#WHEREIN THIS HISTORY REVERTS TO MR. FAGIN AND COMPANY
-
+##WHEREIN THIS HISTORY REVERTS TO MR. FAGIN AND COMPANY
 While these things were passing in the country workhouse, Mr. Fagin sat
 in the old den—the same from which Oliver had been removed by the
 girl—brooding over a dull, smoky fire.  He held a pair of bellows upon
@@ -8213,9 +8163,7 @@ his hands in his hair, rushed from the room, and from the house.
 <BR><BR><BR>
 
 #CHAPTER XXVI
-
-#IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE SCENE;AND MANY THINGS, INSEPARABLE FROM THIS HISTORY, ARE DONE AND PERFORMED
-
+##IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE SCENE;AND MANY THINGS, INSEPARABLE FROM THIS HISTORY, ARE DONE AND PERFORMED
 The old man had gained the street corner, before he began to recover
 the effect of Toby Crackit's intelligence.  He had relaxed nothing of
 his unusual speed; but was still pressing onward, in the same wild and
@@ -8736,9 +8684,7 @@ was past one o'clock.  And so the amiable couple parted.
 <BR><BR><BR>
 
 #CHAPTER XXVII
-
-#ATONES FOR THE UNPOLITENESS OF A FORMER CHAPTER;WHICH DESERTED A LADY, MOST UNCEREMONIOUSLY
-
+##ATONES FOR THE UNPOLITENESS OF A FORMER CHAPTER;WHICH DESERTED A LADY, MOST UNCEREMONIOUSLY
 As it would be, by no means, seemly in a humble author to keep so
 mighty a personage as a beadle waiting, with his back to the fire, and
 the skirts of his coat gathered up under his arms, until such time as
@@ -9059,9 +9005,7 @@ he be still lying in the ditch where Toby Crackit left him.
 <BR><BR><BR>
 
 #CHAPTER XXVIII
-
-#LOOKS AFTER OLIVER, AND PROCEEDS WITH HIS ADVENTURES
-
+##LOOKS AFTER OLIVER, AND PROCEEDS WITH HIS ADVENTURES
 'Wolves tear your throats!' muttered Sikes, grinding his teeth. 'I wish
 I was among some of you; you'd howl the hoarser for it.'
 
@@ -9476,9 +9420,7 @@ solicitude of a woman.
 <BR><BR><BR>
 
 #CHAPTER XXIX
-
-#HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE HOUSE, TO WHICH OLIVER RESORTED
-
+##HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE HOUSE, TO WHICH OLIVER RESORTED
 In a handsome room:  though its furniture had rather the air of
 old-fashioned comfort, than of modern elegance:  there sat two ladies
 at a well-spread breakfast-table.  Mr. Giles, dressed with scrupulous
@@ -9648,9 +9590,7 @@ you my honour!'
 <BR><BR><BR>
 
 #CHAPTER XXX
-
-#RELATES WHAT OLIVER'S NEW VISITORS THOUGHT OF HIM
-
+##RELATES WHAT OLIVER'S NEW VISITORS THOUGHT OF HIM
 With many loquacious assurances that they would be agreeably surprised
 in the aspect of the criminal, the doctor drew the young lady's arm
 through one of his; and offering his disengaged hand to Mrs. Maylie,
@@ -9930,9 +9870,7 @@ all,' said the doctor, walking away.
 <BR><BR><BR>
 
 #CHAPTER XXXI
-
-#INVOLVES A CRITICAL POSITION
-
+##INVOLVES A CRITICAL POSITION
 'Who's that?' inquired Brittles, opening the door a little way, with
 the chain up, and peeping out, shading the candle with his hand.
 
@@ -10389,9 +10327,7 @@ peace and happiness.
 <BR><BR><BR>
 
 #CHAPTER XXXII
-
-#OF THE HAPPY LIFE OLIVER BEGAN TO LEAD WITH HIS KIND FRIENDS
-
+##OF THE HAPPY LIFE OLIVER BEGAN TO LEAD WITH HIS KIND FRIENDS
 Oliver's ailings were neither slight nor few.  In addition to the pain
 and delay attendant on a broken limb, his exposure to the wet and cold
 had brought on fever and ague:  which hung about him for many weeks,
@@ -10752,9 +10688,7 @@ to, himself.
 <BR><BR><BR>
 
 #CHAPTER XXXIII
-
-#WHEREIN THE HAPPINESS OF OLIVER AND HIS FRIENDS, EXPERIENCES A SUDDEN CHECK
-
+##WHEREIN THE HAPPINESS OF OLIVER AND HIS FRIENDS, EXPERIENCES A SUDDEN CHECK
 Spring flew swiftly by, and summer came.  If the village had been
 beautiful at first it was now in the full glow and luxuriance of its
 richness.  The great trees, which had looked shrunken and bare in the
@@ -11109,9 +11043,7 @@ extended to receive her.
 <BR><BR><BR>
 
 #CHAPTER XXXIV
-
-#CONTAINS SOME INTRODUCTORY PARTICULARS RELATIVETO A YOUNG GENTLEMAN WHO NOW ARRIVES UPON THE SCENE; AND A NEW ADVENTURE WHICH HAPPENED TO OLIVER
-
+##CONTAINS SOME INTRODUCTORY PARTICULARS RELATIVETO A YOUNG GENTLEMAN WHO NOW ARRIVES UPON THE SCENE; AND A NEW ADVENTURE WHICH HAPPENED TO OLIVER
 It was almost too much happiness to bear.  Oliver felt stunned and
 stupefied by the unexpected intelligence; he could not weep, or speak,
 or rest.  He had scarcely the power of understanding anything that had
@@ -11512,9 +11444,7 @@ loudly for help.
 <BR><BR><BR>
 
 #CHAPTER XXXV
-
-#CONTAINING THE UNSATISFACTORY RESULT OF OLIVER'S ADVENTURE;AND A CONVERSATION OF SOME IMPORTANCE BETWEENHARRY MAYLIE AND ROSE
-
+##CONTAINING THE UNSATISFACTORY RESULT OF OLIVER'S ADVENTURE;AND A CONVERSATION OF SOME IMPORTANCE BETWEENHARRY MAYLIE AND ROSE
 When the inmates of the house, attracted by Oliver's cries, hurried to
 the spot from which they proceeded, they found him, pale and agitated,
 pointing in the direction of the meadows behind the house, and scarcely
@@ -11825,9 +11755,7 @@ the room.
 <BR><BR><BR>
 
 #CHAPTER XXXVI
-
-#IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCEIN ITS PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL TO THE LAST, AND A KEY TO ONE THAT WILL FOLLOWWHEN ITS TIME ARRIVES
-
+##IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCEIN ITS PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL TO THE LAST, AND A KEY TO ONE THAT WILL FOLLOWWHEN ITS TIME ARRIVES
 'And so you are resolved to be my travelling companion this morning;
 eh?' said the doctor, as Harry Maylie joined him and Oliver at the
 breakfast-table.  'Why, you are not in the same mind or intention two
@@ -11945,9 +11873,7 @@ the same direction, seemed to tell more of sorrow than of joy.
 <BR><BR><BR>
 
 #CHAPTER XXXVII
-
-#IN WHICH THE READER MAY PERCEIVE A CONTRAST, NOT UNCOMMON IN MATRIMONIAL CASES
-
+##IN WHICH THE READER MAY PERCEIVE A CONTRAST, NOT UNCOMMON IN MATRIMONIAL CASES
 Mr. Bumble sat in the workhouse parlour, with his eyes moodily fixed on
 the cheerless grate, whence, as it was summer time, no brighter gleam
 proceeded, than the reflection of certain sickly rays of the sun, which
@@ -12391,9 +12317,7 @@ paper.  'What name am I to ask for?'
 <BR><BR><BR>
 
 #CHAPTER XXXVIII
-
-#CONTAINING AN ACCOUNT OF WHAT PASSED BETWEEN MR. AND MRS. BUMBLE, AND MR. MONKS, AT THEIR NOCTURNAL INTERVIEW
-
+##CONTAINING AN ACCOUNT OF WHAT PASSED BETWEEN MR. AND MRS. BUMBLE, AND MR. MONKS, AT THEIR NOCTURNAL INTERVIEW
 It was a dull, close, overcast summer evening.  The clouds, which had
 been threatening all day, spread out in a dense and sluggish mass of
 vapour, already yielded large drops of rain, and seemed to presage a
@@ -12847,9 +12771,7 @@ returned to the chamber he had just quitted.
 <BR><BR><BR>
 
 #CHAPTER XXXIX
-
-#INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM THE READERIS ALREADY ACQUAINTED, AND SHOWS HOW MONKS AND THE JEW LAIDTHEIR WORTHY HEADS TOGETHER
-
+##INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM THE READERIS ALREADY ACQUAINTED, AND SHOWS HOW MONKS AND THE JEW LAIDTHEIR WORTHY HEADS TOGETHER
 On the evening following that upon which the three worthies mentioned
 in the last chapter, disposed of their little matter of business as
 therein narrated, Mr. William Sikes, awakening from a nap, drowsily
@@ -13480,9 +13402,7 @@ lighted by a lamp from the ceiling. Here he left her, and retired.
 <BR><BR><BR>
 
 #CHAPTER XL
-
-#A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER
-
+##A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER
 The girl's life had been squandered in the streets, and among the most
 noisome of the stews and dens of London, but there was something of the
 woman's original nature left in her still; and when she heard a light
@@ -13767,9 +13687,7 @@ into a chair, and endeavoured to collect her wandering thoughts.
 <BR><BR><BR>
 
 #CHAPTER XLI
-
-#CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE MISFORTUNES, SELDOM COME ALONE
-
+##CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE MISFORTUNES, SELDOM COME ALONE
 Her situation was, indeed, one of no common trial and difficulty. While
 she felt the most eager and burning desire to penetrate the mystery in
 which Oliver's history was enveloped, she could not but hold sacred the
@@ -14180,9 +14098,7 @@ Rose; and the council was, for the present, effectually broken up.
 <BR><BR><BR>
 
 #CHAPTER XLII
-
-#AN OLD ACQUAINTANCE OF OLIVER'S, EXHIBITING DECIDED MARKSOF GENIUS, BECOMES A PUBLIC CHARACTER IN THE METROPOLIS
-
+##AN OLD ACQUAINTANCE OF OLIVER'S, EXHIBITING DECIDED MARKSOF GENIUS, BECOMES A PUBLIC CHARACTER IN THE METROPOLIS
 Upon the night when Nancy, having lulled Mr. Sikes to sleep, hurried on
 her self-imposed mission to Rose Maylie, there advanced towards London,
 by the Great North Road, two persons, upon whom it is expedient that
@@ -14655,9 +14571,7 @@ the kinchin lay, in London and its vicinity.
 <BR><BR><BR>
 
 #CHAPTER XLIII
-
-#WHEREIN IS SHOWN HOW THE ARTFUL DODGER GOT INTO TROUBLE
-
+##WHEREIN IS SHOWN HOW THE ARTFUL DODGER GOT INTO TROUBLE
 'And so it was you that was your own friend, was it?' asked Mr.
 Claypole, otherwise Bolter, when, by virtue of the compact entered into
 between them, he had removed next day to Fagin's house.  ''Cod, I
@@ -15114,9 +15028,7 @@ establishing for himself a glorious reputation.
 <BR><BR><BR>
 
 #CHAPTER XLIV
-
-#THE TIME ARRIVES FOR NANCY TO REDEEM HER PLEDGETO ROSE MAYLIE.  SHE FAILS.
-
+##THE TIME ARRIVES FOR NANCY TO REDEEM HER PLEDGETO ROSE MAYLIE.  SHE FAILS.
 Adept as she was, in all the arts of cunning and dissimulation, the
 girl Nancy could not wholly conceal the effect which the knowledge of
 the step she had taken, wrought upon her mind.  She remembered that
@@ -15406,9 +15318,7 @@ crushed with every motion of his fingers.
 <BR><BR><BR>
 
 #CHAPTER XLV
-
-#NOAH CLAYPOLE IS EMPLOYED BY FAGIN ON A SECRET MISSION
-
+##NOAH CLAYPOLE IS EMPLOYED BY FAGIN ON A SECRET MISSION
 The old man was up, betimes, next morning, and waited impatiently for
 the appearance of his new associate, who after a delay that seemed
 interminable, at length presented himself, and commenced a voracious
@@ -15577,9 +15487,7 @@ relative distance between them, and followed:  with his eye upon her.
 <BR><BR><BR>
 
 #CHAPTER XLVI
-
-#THE APPOINTMENT KEPT
-
+##THE APPOINTMENT KEPT
 The church clocks chimed three quarters past eleven, as two figures
 emerged on London Bridge.  One, which advanced with a swift and rapid
 step, was that of a woman who looked eagerly about her as though in
@@ -15997,9 +15905,7 @@ made for the Jew's house as fast as his legs would carry him.
 <BR><BR><BR>
 
 #CHAPTER XLVII
-
-#FATAL CONSEQUENCES
-
+##FATAL CONSEQUENCES
 It was nearly two hours before day-break; that time which in the autumn
 of the year, may be truly called the dead of night; when the streets
 are silent and deserted; when even sounds appear to slumber, and
@@ -16319,9 +16225,7 @@ club and struck her down.
 <BR><BR><BR>
 
 #CHAPTER XLVIII
-
-#THE FLIGHT OF SIKES
-
+##THE FLIGHT OF SIKES
 Of all bad deeds that, under cover of the darkness, had been committed
 within wide London's bounds since night hung over it, that was the
 worst.  Of all the horrors that rose with an ill scent upon the morning
@@ -16684,9 +16588,7 @@ he resumed his journey.
 <BR><BR><BR>
 
 #CHAPTER XLIX
-
-#MONKS AND MR. BROWNLOW AT LENGTH MEET.  THEIR CONVERSATION, AND THE INTELLIGENCE THAT INTERRUPTS IT
-
+##MONKS AND MR. BROWNLOW AT LENGTH MEET.  THEIR CONVERSATION, AND THE INTELLIGENCE THAT INTERRUPTS IT
 The twilight was beginning to close in, when Mr. Brownlow
 alighted from a hackney-coach at his own door, and knocked softly.  The
 door being opened, a sturdy man got out of the coach and stationed
@@ -17096,9 +16998,7 @@ wholly uncontrollable.
 <BR><BR><BR>
 
 #CHAPTER L
-
-#THE PURSUIT AND ESCAPE
-
+##THE PURSUIT AND ESCAPE
 Near to that part of the Thames on which the church at Rotherhithe
 abuts, where the buildings on the banks are dirtiest and the vessels on
 the river blackest with the dust of colliers and the smoke of
@@ -17586,9 +17486,7 @@ against a stone, dashed out his brains.
 <BR><BR><BR>
 
 #CHAPTER LI
-
-#AFFORDING AN EXPLANATION OF MORE MYSTERIES THAN ONE, AND COMPREHENDING A PROPOSAL OF MARRIAGE WITH NO WORDOF SETTLEMENT OR PIN-MONEY
-
+##AFFORDING AN EXPLANATION OF MORE MYSTERIES THAN ONE, AND COMPREHENDING A PROPOSAL OF MARRIAGE WITH NO WORDOF SETTLEMENT OR PIN-MONEY
 The events narrated in the last chapter were yet but two days old, when
 Oliver found himself, at three o'clock in the afternoon, in a
 travelling-carriage rolling fast towards his native town.  Mrs. Maylie,
@@ -18128,9 +18026,7 @@ Poor Dick was dead!
 <BR><BR><BR>
 
 #CHAPTER LII
-
-#FAGIN'S LAST NIGHT ALIVE
-
+##FAGIN'S LAST NIGHT ALIVE
 The court was paved, from floor to roof, with human faces. Inquisitive
 and eager eyes peered from every inch of space. From the rail before
 the dock, away into the sharpest angle of the smallest corner in the
@@ -18486,9 +18382,7 @@ all the hideous apparatus of death.
 <BR><BR><BR>
 
 #CHAPTER LIII
-
-#AND LAST
-
+##AND LAST
 The fortunes of those who have figured in this tale are nearly closed.
 The little that remains to their historian to relate, is told in few
 and simple words.
