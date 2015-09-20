@@ -2,8 +2,7 @@
 	<h1 class="title"><%= @book.title %></h1>
 </header>
 <div class="main">
-	<div id="left-bar">
-		<%= search_field_tag :search, "", placeholder: "Search" %>
+	<div class="left-bar"> <%= search_field_tag :search, "", placeholder: "Search" %>
 		<ul class="links">
 			<li><%= link_to "Library", books_path %></li>
 			<li><%= link_to "First page", url_for(page: 1) %></li>
@@ -12,7 +11,7 @@
 	<div class="content">
 		<%= @html.html_safe %>
 	</div>
-	<div id="right-bar">
+	<div class="right-bar">
 		<ul id="FontFamily" class="options">
 			<li style="margin-bottom: 4px;"><%= link_to "Palatino", '#', style: 'font-family: Palatino;' %></li>
 			<li style="margin-bottom: 7px;"><%= link_to "Charter", '#', style: 'font-family: Charter;' %></li>

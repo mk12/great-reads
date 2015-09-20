@@ -63,7 +63,7 @@ a:hover {
 	border-bottom: 2px solid #07b;
 }
 
-em {
+i, em {
 	font-style: italic;
 }
 
