@@ -1,18 +1,57 @@
+// http://www.quirksmode.org/js/cookies.html
+function createCookie(name, value, days) {
+	var expires;
+
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+		expires = "; expires=" + date.toGMTString();
+	} else {
+		expires = "";
+	}
+	document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = encodeURIComponent(name) + "=";
+	var ca = document.cookie.split(';');
+	for (var i = 0; i < ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+		if (c.indexOf(nameEQ) === 0) return decodeURIComponent(c.substring(nameEQ.length, c.length));
+	}
+	return null;
+}
+
 var ready = function() {
+	var size = readCookie('font-size');
+	var family = readCookie('font-family');
+	var height = readCookie('line-height');
+	var background = readCookie('background');
+
+	if (size) $('.content').css("font-size", size);
+	if (family) $('.content').css("font-family", family);
+	if (height) $('.content').css("line-height", height);
+	if (background) $('body').css("background-color", background);
+
 	$('#FontSize a').click(function() {
 		$('.content').css("font-size", this.dataset.size);
+		createCookie('font-size', this.dataset.size);
 	});
 
 	$('#FontFamily a').click(function(){
 		$('.content').css("font-family", this.innerHTML);
+		createCookie('font-family', this.innerHTML);
 	});
 
 	$('#Leading a').click(function(){
 		$('.content').css("line-height", this.dataset.spacing);
+		createCookie('line-height', this.dataset.spacing);
 	});
 
 	$('#Background a').click(function() {
 		$('body').css("background-color", $(this).css('background-color'));
+		createCookie('background', $(this).css('background-color'));
 	});
 };
 
