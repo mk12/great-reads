@@ -178,5 +178,16 @@ footer span {
 }
 
 .smcap {
+	text-transform: lowercase;
 	font-variant: small-caps;
+	font-size: 1.1em;
+}
+
+input[type=search] {
+	font-size: 18px;
+	margin-bottom: 20px;
+	background: inherit;
+	border: 1px solid #07b;
+	border-radius: 5px;
+	width: 150px;
 }
