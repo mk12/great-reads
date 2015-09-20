@@ -2,22 +2,34 @@
 	<h1><%= @book.title %></h1>
 </header>
 <div class="main">
-	<div class="sidebar">
+	<div id="left-bar">
 		<%= link_to "Library", books_path %>
 	</div>
 	<div class="content">
 		<%= @book.content.html_safe %>
 	</div>
-	<div class="sidebar">
-		<ul>
-			<li><%= link_to "Caslon", '#' %></li>
-			<li><%= link_to "Gill Sans", '#' %></li>
-			<li><%= link_to "Minion", '#' %></li>
+	<div id="right-bar">
+		<ul id="FontFamily" class="options">
+			<li><%= link_to "Palatino", '#', style: 'font-family: Palatino;' %></li>
+			<li style="margin-bottom: 6px;"><%= link_to "Charter", '#', style: 'font-family: Charter;' %></li>
+			<li><%= link_to "Gill Sans", '#', style: 'font-family: Gill Sans' %></li>
 		</ul>
-		<ul>
-			<li><%= link_to "A", '#' %></li>
-			<li><%= link_to "A", '#' %></li>
-			<li><%= link_to "A", '#' %></li>
+		<ul id="FontSize" class="options">
+			<li><%= link_to "A", '#', style: 'font-size: 18px;',  'data-size' => '18px' %></li>
+			<li><%= link_to "A", '#', style: 'font-size: 22px;', 'data-size' => '22px' %></li>
+			<li><%= link_to "A", '#', style: 'font-size: 26px;' , 'data-size' => '26px' %></li>
+		</ul>
+		<ul id="Leading" class="options">
+			<li><%= link_to "☰", '#', style: 'font-size: 18px; vertical-align: 2px;', 'data-spacing' => '1.1em' %></li>
+			<span style="margin-left: 2px"> </span>
+			<li><%= link_to "☰", '#', style: 'font-size: 22px; vertical-align: 1px', 'data-spacing' => '1.3em' %></li>
+			<span style="margin-left: 1px"> </span>
+			<li><%= link_to "☰", '#', style: 'font-size: 26px;', 'data-spacing' => '1.5em' %></li>
+		</ul>
+		<ul id="Background" class="options">
+			<li><%= link_to '', '#', style: 'background: #FAFAFA;' %></li>
+			<li><%= link_to '', '#', style: 'background: #F9EDE0;' %></li>
+			<li><%= link_to '', '#', style: 'background: #E6E6E6;' %></li>
 		</ul>
 	</div>
 </div>

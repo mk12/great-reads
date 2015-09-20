@@ -44,14 +44,106 @@ header {
 	justify-content: space-between;
 }
 
+#Background {
+	margin-right: 10px;
+}
+
+#Background a {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border: solid 1px #07b;
+	margin: 3px;
+}
+
+#Background a:hover {
+	border:solid 1px #000;
+	border-radius: 10px;
+}
+
 .content {
 	text-rendering: optimizeLegibility;
 	max-width: 500px;
 	text-align: justify;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	-o-hyphens: auto;
 	hyphens: auto;
+	line-height: 1.3em;
 }
 
-.sidebar {
+#left-bar {
 	width: 200px;
-	background: #eee;
+}
+
+#right-bar {
+	width: 200px;
+	text-align: right;
+}
+
+#FontFamily {
+	margin-right: 10px;
+}
+
+#FontSize {
+	margin-right: 10px;
+}
+
+#FontSize li, #Leading li, #Background li {
+	display: inline;
+}
+
+#FontSize a {
+	border: 1px solid #07b;
+	border-radius: 5px;
+	height: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#FontSize li:first-child a {
+	padding-top: 7px;
+	padding-bottom: 2px;
+}
+
+#FontSize li:nth-child(2) a {
+	padding-top: 4px;
+	padding-bottom: 1px;
+}
+
+#FontSize a:hover {
+	background: #07b;
+	color: #fff;
+}
+
+#Leading {
+	margin-right: 10px;
+}
+
+#Leading a {
+	border: 1px solid #07b;
+	border-radius: 5px;
+	height: 30px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+#Leading li:first-child a{
+	padding-bottom: 4px;
+	padding-top: 5px;
+}
+
+#Leading li:nth-of-type(2) a{
+	padding-bottom: 2px;
+	padding-top: 3px;
+}
+
+#Leading a:hover {
+	background: #07b;
+	color: #fff;
+}
+
+.options {
+	margin-bottom: 20px;
 }
