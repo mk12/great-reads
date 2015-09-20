@@ -33,7 +33,7 @@ BOOKS = [
   {handle: 'crime-and-punishment',
    title: 'Crime and Punishment',
    author: 'Fyodor Dostoyevsky',
-   filename: 'oliver_twist.md'},
+   filename: 'crime_and_punishment.md'},
   {handle: 'la-chute',
    title: 'La Chute',
    author: 'Albert Camus',
