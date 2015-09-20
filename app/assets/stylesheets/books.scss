@@ -83,13 +83,14 @@ footer span {
 	-o-hyphens: auto;
 	hyphens: auto;
 	line-height: 1.3em;
+	margin: 0 auto;
 }
 
-#left-bar {
+.left-bar {
 	width: 200px;
 }
 
-#right-bar {
+.right-bar {
 	width: 200px;
 	text-align: right;
 }

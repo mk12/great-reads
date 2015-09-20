@@ -57,6 +57,17 @@ var ready = function() {
 		createCookie('background', $(this).css('background-color'));
 		return false;
 	});
+
+	var offset = $(".left-bar").offset().top - 12;
+	$w = $(window).scroll(function() {
+		if ($w.scrollTop() > offset) {
+			$('.left-bar').css({position: 'fixed', left: '10px', top: '10px'});
+			$('.right-bar').css({position: 'fixed', right: '10px', top: '10px'});
+		} else {
+			$('.left-bar').css({position: 'static'});
+			$('.right-bar').css({position: 'static'});
+		}
+	});
 };
 
 $(document).ready(ready);
