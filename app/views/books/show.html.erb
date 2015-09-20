@@ -4,7 +4,10 @@
 <div class="main">
 	<div id="left-bar">
 		<%= search_field_tag :search, "", placeholder: "Search" %>
-		<%= link_to "Library", books_path %>
+		<ul class="links">
+			<li><%= link_to "Library", books_path %></li>
+			<li><%= link_to "First page", url_for(page: 1) %></li>
+		</ul>
 	</div>
 	<div class="content">
 		<%= @html.html_safe %>
