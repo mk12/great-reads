@@ -37,21 +37,25 @@ var ready = function() {
 	$('#FontSize a').click(function() {
 		$('.content').css("font-size", this.dataset.size);
 		createCookie('font-size', this.dataset.size);
+		return false;
 	});
 
 	$('#FontFamily a').click(function(){
 		$('.content').css("font-family", this.innerHTML);
 		createCookie('font-family', this.innerHTML);
+		return false;
 	});
 
 	$('#Leading a').click(function(){
 		$('.content').css("line-height", this.dataset.spacing);
 		createCookie('line-height', this.dataset.spacing);
+		return false;
 	});
 
 	$('#Background a').click(function() {
 		$('body').css("background-color", $(this).css('background-color'));
 		createCookie('background', $(this).css('background-color'));
+		return false;
 	});
 };
 
