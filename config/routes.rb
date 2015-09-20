@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   resources :home, only: [:index]
   resources :books, only: [:index, :show] do
     get :search, on: :member
+    post :upload, on: :collection
   end
 
   resources :sessions, only: [:create, :destroy]

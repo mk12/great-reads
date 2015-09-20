@@ -5,6 +5,12 @@
 		<% @books.each do |book| %>
 			<%= link_to cover_info(book), book_path(book), class: 'book-item' %>
 		<% end %>
-		<%= link_to "+", '#', class: 'book-item add-book' %>
+		<%= link_to "+", '#', class: 'book-item add-book', id: 'AddBook' %>
 	</ul>
+
+	<div class="hidden">
+		<%= form_tag({action: :upload}, multipart: true, id: 'Form') do %>
+			<%= file_field_tag :content, id: 'File' %>
+		<% end %>
+	</div>
 </div>

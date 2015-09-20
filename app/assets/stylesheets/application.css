@@ -85,3 +85,7 @@ i, em {
 	margin-top: 60px;
 	line-height: 0;
 }
+
+.hidden {
+	display: none;
+}

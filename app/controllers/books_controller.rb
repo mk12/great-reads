@@ -20,6 +20,17 @@ class BooksController < ApplicationController
   def search
   end
 
+  def upload
+    uploaded_io = params[:content]
+    filename = uploaded_io.original_filename
+    File.open(Rails.root.join('db', 'data', filename), 'wb') do |f|
+      f.write(uploaded_io.read)
+    end
+    book = Book.create!(handle: '1984', title: '1984', author: 'George Orwell', filename: filename)
+    current_user.readings.create!(book: book, current_page: 1)
+    redirect_to books_path
+  end
+
   private
 
   def load_book

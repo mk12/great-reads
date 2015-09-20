@@ -58,6 +58,14 @@ var ready = function() {
 		return false;
 	});
 
+	$('#AddBook').click(function() {
+		$('#File').trigger('click');
+		return false;
+	});
+	$('#File').change(function() {
+		$('#Form').submit();
+	});
+
 	var offset = $(".left-bar").offset().top - 12;
 	$w = $(window).scroll(function() {
 		if ($w.scrollTop() > offset) {
