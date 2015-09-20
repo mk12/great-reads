@@ -1,7 +1,7 @@
 class Paginator
   attr_reader :chars_per_page, :num_pages
 
-  DEFAULT_CHARS = 1300
+  DEFAULT_CHARS = 1100
 
   def initialize(filename, chars_per_page=DEFAULT_CHARS)
     @path = File.join(Rails.root, 'db', 'data', filename)

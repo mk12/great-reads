@@ -8,7 +8,10 @@ class BooksController < ApplicationController
 
   def show
     paginator = Paginator.new(@book.filename)
-    text = paginator.text(params[:page].to_i || 1)
+    if params[:page]
+      @reading.update(current_page: params[:page])
+    end
+    text = paginator.text(@reading.current_page)
     @html = Rails.application.markdown.render(text)
   end
 
