@@ -7,8 +7,12 @@ class ApplicationController < ActionController::Base
   end
 
   def require_login
-    unless current_user
-      raise ActionController::RoutingError.new('Not Found')
-    end
+    render_404 unless current_user
+  end
+
+  private
+
+  def render_404
+    raise ActionController::RoutingError.new('Not Found')
   end
 end

@@ -6,7 +6,7 @@
 		<%= link_to "Library", books_path %>
 	</div>
 	<div class="content">
-		<%= @book.content.html_safe %>
+		<%= @html.html_safe %>
 	</div>
 	<div id="right-bar">
 		<ul id="FontFamily" class="options">
@@ -33,3 +33,6 @@
 		</ul>
 	</div>
 </div>
+<footer>
+	Page <%= @reading.current_page %>
+</footer>
