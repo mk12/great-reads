@@ -1,6 +1,6 @@
 # Great Reads
 
-Hack the North 2015 project.
+[Hack the North 2015 project](http://devpost.com/software/great-reads-yf5ngq).
 
 ## Team
 
