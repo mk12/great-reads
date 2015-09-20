@@ -1,4 +1,4 @@
-$(document).ready(function() {
+var ready = function() {
 	$('#FontSize a').click(function() {
 		$('.content').css("font-size", this.dataset.size);
 	});
@@ -14,5 +14,7 @@ $(document).ready(function() {
 	$('#Background a').click(function() {
 		$('body').css("background-color", $(this).css('background-color'));
 	});
-});
+};
 
+$(document).ready(ready);
+$(document).on('page:load', ready);
