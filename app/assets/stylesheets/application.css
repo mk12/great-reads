@@ -39,6 +39,15 @@ h1 {
 	margin-top: 20px;
 }
 
+#icon_credits {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+
 a {
 	color: #07b;
 	text-decoration: none;
